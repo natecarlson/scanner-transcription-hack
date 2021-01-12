@@ -24,7 +24,9 @@ python /path/to/nemo-web-transcriber.py
 ```
 
 You should see a message like the following:
-`100% [........................................................................] 71114495 / 71114495`
+```
+100% [........................................................................] 71114495 / 71114495
+```
 ..that is NeMo downloading the specified model to your home directory. Then, you should see:
 ```
 * Serving Flask app
